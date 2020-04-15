@@ -86,7 +86,7 @@ Let's create a new file: `spec/models/post_spec.rb`. In that file, place the fol
 require 'rails_helper'
 
 describe Post do
-
+ 
 end
 ```
 
